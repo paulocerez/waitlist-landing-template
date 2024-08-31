@@ -1,3 +1,3 @@
-# Landing page for 2docs.
+## Template for early MVP waitlist landing pages.
 
-### Combine two or more API docs into seamless workflows. Zapier for code generation.
+##### Retrieve API keys for Sendgrid and Supabase.
